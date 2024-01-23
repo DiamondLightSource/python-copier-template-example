@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dls-python-copier-template-example
+  title: python-copier-template-example
+  description: An expanded python-copier-template with all the options
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/sscc
