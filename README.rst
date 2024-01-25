@@ -1,5 +1,5 @@
 python_copier_template_example
-===========================
+=============================================================================
 
 |code_ci| |docs_ci| |coverage| |pypi_version| |license|
 
