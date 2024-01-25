@@ -2,5 +2,9 @@
   {
     "version": "main",
     "url": "https://DiamondLightSource.github.io/python-copier-template-example/main/"
+  },
+  {
+    "version": "fix-dist-globbing",
+    "url": "https://DiamondLightSource.github.io/python-copier-template-example/fix-dist-globbing/"
   }
 ]
