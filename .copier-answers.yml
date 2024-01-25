@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier
-_commit: HEAD
-_src_path: ../python-copier-template
+_commit: 0.2.0
+_src_path: gh:DiamondLightSource/python-copier-template
 author_email: tom.cobb@diamond.ac.uk
 author_name: Tom Cobb
 component_owner: group:default/sscc
