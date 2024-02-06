@@ -9,7 +9,7 @@ how it does it, and why people should use it.
 ============== ==============================================================
 PyPI           ``pip install dls-python-copier-template-example``
 Source code    https://github.com/DiamondLightSource/python-copier-template-example
-Documentation  https://DiamondLightSource.github.io/python-copier-template-example
+Documentation  https://diamondlightsource.github.io/python-copier-template-example
 Releases       https://github.com/DiamondLightSource/python-copier-template-example/releases
 ============== ==============================================================
 
@@ -52,4 +52,4 @@ Or if it is a commandline tool then you might put some example commands here::
     Anything below this line is used when viewing README.rst and will be replaced
     when included in index.rst
 
-See https://DiamondLightSource.github.io/python-copier-template-example for more detailed documentation.
+See https://diamondlightsource.github.io/python-copier-template-example for more detailed documentation.

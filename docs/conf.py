@@ -128,7 +128,7 @@ copybutton_prompt_is_regexp = True
 html_theme = "pydata_sphinx_theme"
 github_repo = "python-copier-template-example"
 github_user = "DiamondLightSource"
-switcher_json = f"https://{github_user}.github.io/{github_repo}/switcher.json"
+switcher_json = "https://DiamondLightSource.github.io/python-copier-template-example/switcher.json"
 switcher_exists = requests.get(switcher_json).ok
 if not switcher_exists:
     print(
