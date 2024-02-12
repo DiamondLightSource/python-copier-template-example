@@ -1,6 +1,6 @@
 # Run in a container
 
-Pre-built containers with {\{repo_name}} and its dependencies already
+Pre-built containers with python-copier-template-example and its dependencies already
 installed are available on [Github Container Registry](https://ghcr.io/DiamondLightSource/python-copier-template-example).
 
 ## Starting the container
