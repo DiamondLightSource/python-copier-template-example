@@ -13,6 +13,7 @@ how it does it, and why people should use it.
 Source          | <https://github.com/DiamondLightSource/python-copier-template-example>
 :---:           | :---:
 PyPI            | `pip install dls-python-copier-template-example`
+Docker          | `docker run ghcr.io/diamondlightsource/python-copier-template-example:latest`
 Documentation   | <https://diamondlightsource.github.io/python-copier-template-example>
 Releases        | <https://github.com/DiamondLightSource/python-copier-template-example/releases>
 
