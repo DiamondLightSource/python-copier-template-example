@@ -7,7 +7,7 @@
     -----------------------------------
 ```
 
-This is the internal API reference for {\{package_name}}
+This is the internal API reference for python_copier_template_example
 
 ```{eval-rst}
 .. data:: python_copier_template_example.__version__
