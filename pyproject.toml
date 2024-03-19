@@ -42,7 +42,7 @@ dev = [
 python-copier-template-example = "python_copier_template_example.__main__:main"
 
 [project.urls]
-GitHub = "https://github.com/DiamondLightSource/python-copier-template-example"
+Homepage = "https://github.com/DiamondLightSource/python-copier-template-example"
 
 [[project.authors]] # Further authors may be added by duplicating this section
 email = "tom.cobb@diamond.ac.uk"
