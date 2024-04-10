@@ -27,6 +27,7 @@ from python_copier_template_example import __version__
 print(f"Hello python_copier_template_example {__version__}")
 ```
 
+
 Or if it is a commandline tool then you might put some example commands here:
 
 ```
