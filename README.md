@@ -36,4 +36,3 @@ python -m python_copier_template_example --version
 <!-- README only content. Anything below this line won't be included in index.md -->
 
 See https://diamondlightsource.github.io/python-copier-template-example for more detailed documentation.
-
