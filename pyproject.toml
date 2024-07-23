@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=64", "setuptools_scm[toml]>=6.2"]
+requires = ["setuptools>=64", "setuptools_scm[toml]>=8"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -48,7 +48,7 @@ name = "Tom Cobb"
 
 
 [tool.setuptools_scm]
-write_to = "src/python_copier_template_example/_version.py"
+version_file = "src/python_copier_template_example/_version.py"
 
 [tool.pyright]
 reportMissingImports = false # Ignore missing stubs in imported modules
