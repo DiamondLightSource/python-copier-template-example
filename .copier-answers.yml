@@ -1,9 +1,11 @@
 # Changes here will be overwritten by Copier
-_commit: 2.2.0-9-g123b250
+_commit: 2.2.0-16-gef12f1b
 _src_path: gh:DiamondLightSource/python-copier-template
 author_email: tom.cobb@diamond.ac.uk
 author_name: Tom Cobb
-component_owner: group:default/sscc
+component_lifecycle: experimental
+component_owner: group:default/daq
+component_type: service
 description: An expanded https://github.com/DiamondLightSource/python-copier-template
     to illustrate how it looks with all the options enabled.
 distribution_name: dls-python-copier-template-example
