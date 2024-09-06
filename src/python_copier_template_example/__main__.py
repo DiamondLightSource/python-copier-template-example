@@ -1,3 +1,4 @@
+"""Interface for ``python -m python_copier_template_example``."""
 from argparse import ArgumentParser
 from collections.abc import Sequence
 
@@ -7,6 +8,7 @@ __all__ = ["main"]
 
 
 def main(args: Sequence[str] | None = None) -> None:
+    """Argument parser for the CLI."""
     parser = ArgumentParser()
     parser.add_argument(
         "-v",
@@ -17,6 +19,5 @@ def main(args: Sequence[str] | None = None) -> None:
     parser.parse_args(args)
 
 
-# test with: python -m python_copier_template_example
 if __name__ == "__main__":
     main()
