@@ -1,0 +1,13 @@
+﻿``python_copier_template_example``
+==================================
+
+.. automodule:: python_copier_template_example
+    :members:
+
+    
+    
+    
+
+    
+    
+    
