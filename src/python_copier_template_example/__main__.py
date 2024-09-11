@@ -1,4 +1,5 @@
 """Interface for ``python -m python_copier_template_example``."""
+
 from argparse import ArgumentParser
 from collections.abc import Sequence
 
