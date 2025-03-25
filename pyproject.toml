@@ -51,7 +51,7 @@ name = "Tom Cobb"
 version_file = "src/python_copier_template_example/_version.py"
 
 [tool.pyright]
-typeCheckingMode = "standard"
+typeCheckingMode = "strict"
 reportMissingImports = false # Ignore missing stubs in imported modules
 
 [tool.pytest.ini_options]
