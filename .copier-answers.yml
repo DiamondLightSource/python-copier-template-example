@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier
-_commit: 3.0.0-6-g99dc4b6
-_src_path: gh:DiamondLightSource/python-copier-template
+_commit: 3.0.0-9-g1c71289
+_src_path: https://github.com/DiamondLightSource/python-copier-template.git
 author_email: tom.cobb@diamond.ac.uk
 author_name: Tom Cobb
 component_lifecycle: experimental
