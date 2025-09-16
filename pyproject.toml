@@ -65,6 +65,7 @@ filterwarnings = "error"
 testpaths = "docs src tests"
 
 [tool.coverage.run]
+patch = ["subprocess"]
 data_file = "/tmp/python_copier_template_example.coverage"
 
 [tool.coverage.paths]
