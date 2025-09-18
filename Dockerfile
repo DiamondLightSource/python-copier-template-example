@@ -15,9 +15,9 @@ ENV PATH=/venv/bin:$PATH
 # The build stage installs the context into the venv
 FROM developer AS build
 # Requires buildkit 0.17.0
-COPY --chmod=o+wrX . /workspaces/python-copier-template-example
+COPY . /workspaces/python-copier-template-example
 WORKDIR /workspaces/python-copier-template-example
-RUN touch dev-requirements.txt && pip install -c dev-requirements.txt .
+RUN chmod o+wrX . && touch dev-requirements.txt && pip install -c dev-requirements.txt .
 
 
 FROM build AS debug
