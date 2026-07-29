@@ -21,7 +21,6 @@ requires-python = ">=3.11"
 
 [dependency-groups]
 dev = [
-    "copier",
     "myst-parser",
     "pre-commit",
     "pydata-sphinx-theme>=0.12",
