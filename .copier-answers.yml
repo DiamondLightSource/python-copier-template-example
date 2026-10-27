@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier
-_commit: 5.4.0-17-g5656e02b
+_commit: 5.4.0-18-gcc59c86d
 _src_path: https://github.com/DiamondLightSource/python-copier-template.git
 author_email: tom.cobb@diamond.ac.uk
 author_name: Tom Cobb
